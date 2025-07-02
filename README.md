@@ -82,3 +82,7 @@ Multi-class classification (e.g., glioma, meningioma, pituitary tumor)
 Real-time deployment using Flask or Streamlit
 
 Integration with hospital imaging systems
+
+
+
+Source of data :[https://www.kaggle.com/datasets/masoumehsiar/siardataset]
